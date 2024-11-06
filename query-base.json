@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "country": "U.S.A"
+    },
+    {
+      "id": "2",
+      "name": "Waleed Flix",
+      "email": "flix@gmail.com",
+      "country": "Saudy-Arabia"
+    },
+    {
+      "id": "3",
+      "name": "Alan walker",
+      "email": "walker@gmail.com",
+      "country": "U.S.A"
+    }
+  ]
+}
